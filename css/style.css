@@ -257,7 +257,11 @@ div#notcoon::after {
 }
 
 .small-text {
-  padding: 8rem 5rem;
+/*   padding: 8rem 5rem; */
+  padding-top: 5rem;
+  padding-right: 5rem;
+  padding-bottom: 5rem;
+  padding-left: 5rem;
   font-size: 1.3rem;
   color: #fff;
   text-shadow: 2px 1px 2px #444;
