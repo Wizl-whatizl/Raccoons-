@@ -74,7 +74,6 @@ a {
 
 /* Mission */
 #Mission {
-  /* background-color: red; */
   margin: 0;
   padding: 0;
   padding-bottom: 4rem;
@@ -270,6 +269,12 @@ section#pets #container {
   overflow-y: hidden;
 }
 
+/* Media for tablets below */
+@media screen and (min-width: 768px) and (max-width: 1366px) {
+  
+}
+
+/* Media for mobile below */
 @media screen and (max-width: 812px) {
   div.grid {
     margin: 0;
@@ -488,6 +493,12 @@ nav a:hover {
   width: auto;
 }
 
+/* Media for tablets below */
+@media screen and (min-width: 768px) and (max-width: 1366px) {
+  
+}
+
+/* Media for mobile below */
 @media screen and (max-width: 812px) {
   .hide-on-small {
     display:none;
