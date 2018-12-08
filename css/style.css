@@ -280,7 +280,7 @@ section#pets #container {
   background: url('https://doorcountypulse.com/wp-content/uploads/2018/03/1-PP-3-9-18-Raccoon-at-cracked-corn-660x440.jpg');
   background-repeat: no-repeat;
   background-position: 40%;
-  background-size: 190%;
+  background-size: 250%;
 }
 div#cutecoon::after {
   background-image: url('http://i.imgur.com/mbAEM.jpg');
@@ -291,37 +291,37 @@ div#japancoon::after {
   background-image: url('https://i.pinimg.com/originals/37/d9/8a/37d98aa27c933f00aa90e5b6b682a6e4.jpg');
   background-repeat: no-repeat;
   background-position: 50%;
-  background-size: 200%;
+  background-size: 190%;
 }
 div#blondecoon::after {
   background-image: url('https://usercontent1.hubstatic.com/5417640_f1024.jpg');
   background-repeat: no-repeat;
   background-position: 40%;
-  background-size: 200%;
+  background-size: 250%;
 }
 div#fatcoon::after {
   background-image: url('http://review-planet.ru/wp-content/uploads/2012/04/327.jpg');
   background-repeat: no-repeat;
   background-position: 50% 20%;
-  background-size: 600px;
+  background-size: 200%;
 }
 div#evilcoon::after {
   background-image: url('https://l56spuxk1t14k3seci6s2bja-wpengine.netdna-ssl.com/wp-content/uploads/meme/2014/12/-Evil-Plotting-Raccoon-MEME-2015.jpg');
   background-repeat: no-repeat;
   background-position: 50%;
-  background-size: 200%;
+  background-size: 230%;
 }
 div#ragecoon::after {
   background-image: url('https://cdn1-www.superherohype.com/assets/uploads/2017/02/rocketHT22.jpg');
   background-repeat: no-repeat;
   background-position: 100%;
-  background-size: 230%;
+  background-size: 260%;
 }
 div#notcoon::after {
   background-image: url('http://hronika.info/uploads/posts/2018-07/1530628491_lemur.jpg');
   background-repeat: no-repeat;
   background-position: 40%;
-  background-size: 255%;
+  background-size: 270%;
 }
   .small-text: {
   padding: 20rem 15rem;
