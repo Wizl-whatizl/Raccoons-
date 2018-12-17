@@ -177,6 +177,7 @@ div.coon-box:hover::after {
   position: relative;
   z-index: 1;
   background-color: black;
+  padding-top: 10%;
 }
 
 div#justcoon::after {
